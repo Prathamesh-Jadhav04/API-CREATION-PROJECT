@@ -19,6 +19,10 @@ commd: npm i express
 axios 
 Commd : npm i axios
 
+## nodemon
+
+commd: npm install -g nodemon
+
 ## commands to Run Application 
 
 commd : npm start --> to run the application
